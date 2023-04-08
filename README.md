@@ -1,5 +1,5 @@
-# HEALTH-INSURANCE-CROSS-SELL-PREDICTION
-Capstone Project 3
+#Capstone Project 3
+
 HEALTH INSURANCE CROSS SELL PREDICTION
 Capstone-project-3
 Health-insurance-cross-sell-prediction
